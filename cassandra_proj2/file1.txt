@@ -1,0 +1,3 @@
+
+{"title":"AccessibleComputing","ns":"Default","pageid":10,"redirect":"Computer_accessibility","username":"OlEnglish","comment":"[[Help:Reverting|Reverted]] edits by [[Special:Contributions/76.28.186.133|76.28.186.133]]","commentCount":1,"text":"#REDIRECT [[Computer accessibility]] {{R from CamelCase}}	"}
+{"title":"AfghanistanGeography","ns":"Default","redirect":"Geography_of_Afghanistan","username":"Graham87","comment":"1 revision from [[:nost:AfghanistanGeography]]: import old edit, see [[User:Graham87/Import]]","commentCount":1,"text":"#REDIRECT [[Geography of Afghanistan]] {{R from CamelCase}}"}
